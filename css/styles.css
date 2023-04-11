@@ -2,6 +2,12 @@
     background-color: #ff4c68;
 }
 
-.logo{
-    margin-left: 5px;
+h1{
+    font-family: 'Montserrat-ExtraBold', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.container-fluid{
+    padding: 3% 15%;
 }
